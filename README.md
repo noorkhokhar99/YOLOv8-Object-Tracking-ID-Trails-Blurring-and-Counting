@@ -10,7 +10,7 @@ git clone https://github.com/noorkhokhar99/YOLOv8-Object-Tracking-ID-Trails-Blur
 ```
 - Goto the cloned folder.
 ```
-cd YOLOv8-object-tracking-blurring-counting
+cd YOLOv8-Object-Tracking-ID-Trails-Blurring-and-Counting
 ```
 - Install the dependecies
 ```
