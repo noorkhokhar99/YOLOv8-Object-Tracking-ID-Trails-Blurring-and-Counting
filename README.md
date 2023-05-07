@@ -28,7 +28,7 @@ cd detect
 
 https://drive.google.com/file/d/1q9CmLEXF4JDrAMwGpfJDMXAAC6LOJ0ne/view?usp=sharing
 ```
-- After downloading the DeepSORT Zip file from the drive, unzip it go into the subfolders and place the deep_sort_pytorch folder into the yolo/v8/detect folder
+- After downloading the DeepSORT Zip file from the drive, unzip it go into the subfolders and place the deep_sort_pytorch folder into the detect folder
 
 - put a Sample Video from the YOLOv8-Object-Tracking-ID-Trails-Blurring-and-Counting to detection  folder
 
