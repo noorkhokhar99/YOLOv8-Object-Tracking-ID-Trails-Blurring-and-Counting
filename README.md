@@ -46,5 +46,5 @@ python predict.py model=yolov8l.pt source="test1.mp4" show=True
 
 ### Watch the Complete Step by Step Explanation
 
-[![Watch the video](https://github.com/noorkhokhar99/YOLO-NAS-Object-Detection-with-Webcam-in-Real-time/blob/main/how%20to%20become%20a%20(1)%20(1).png)](https://www.youtube.com/watch?v=st9o5XqqNno)
+[![Watch the video](https://github.com/noorkhokhar99/YOLOv8-Object-Tracking-ID-Trails-Blurring-and-Counting/blob/main/figure2.png)](https://www.youtube.com/watch?v=st9o5XqqNno)
 
