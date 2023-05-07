@@ -1,3 +1,34 @@
+Metadata-Version: 2.1
+Name: ultralytics
+Version: 8.0.3
+Summary: Ultralytics YOLOv8 and HUB
+Home-page: https://github.com/ultralytics/ultralytics
+Author: Ultralytics
+Author-email: hello@ultralytics.com
+License: GPL-3.0
+Project-URL: Bug Reports, https://github.com/ultralytics/ultralytics/issues
+Project-URL: Funding, https://ultralytics.com
+Project-URL: Source, https://github.com/ultralytics/ultralytics
+Keywords: machine-learning,deep-learning,vision,ML,DL,AI,YOLO,YOLOv3,YOLOv5,YOLOv8,HUB,Ultralytics
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Software Development
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Scientific/Engineering :: Image Recognition
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: Microsoft :: Windows
+Requires-Python: >=3.7.0
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+
 <H1 align="center">
 YOLOv8 Object Tracking (ID + Trails) Blurring and Counting </H1>
 
