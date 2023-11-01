@@ -12,7 +12,7 @@ git clone https://github.com/noorkhokhar99/YOLOv8-Object-Tracking-ID-Trails-Blur
 ```
 cd YOLOv8-Object-Tracking-ID-Trails-Blurring-and-Counting
 ```
-- Install the dependecies
+- Install the dependencies
 ```
 pip install -e '.[dev]'
 
@@ -28,14 +28,14 @@ cd detect
 
 https://drive.google.com/file/d/1q9CmLEXF4JDrAMwGpfJDMXAAC6LOJ0ne/view?usp=sharing
 ```
-- After downloading the DeepSORT Zip file from the drive, unzip it go into the subfolders and place the deep_sort_pytorch folder into the detect folder
+- After downloading the DeepSORT Zip file from the drive, unzip it go into the subfolders, and place the deep_sort_pytorch folder into the detect folder
 
-- put a Sample Video from the YOLOv8-Object-Tracking-ID-Trails-Blurring-and-Counting to detection  folder
+- put a Sample Video from the YOLOv8-Object-Tracking-ID-Trails-Blurring-and-Counting into the detection  folder
 
 
-- Run the code with mentioned command below.
+- Run the code with the mentioned command below.
 
-- For yolov8 object detection, Tracking,  blurring and object counting
+- For yolov8 object detection, Tracking,  blurring, and object counting
 ```
 python predict.py model=yolov8l.pt source="test1.mp4" show=True
 ```
